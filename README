@@ -1,0 +1,23 @@
+ Este projeto em Python carrega dados de arquivos CSV via URLs (incluindo suporte a Google Drive), realiza uma análise exploratória automática dos dados, gera diferentes tipos de gráficos (histograma, gráfico de barras, pizza, linha, dispersão, boxplot e matriz de correlação) e inclui uma análise personalizada com insights do desenvolvedor.
+
+Seções no README:
+
+Introdução
+
+Descrição do propósito do projeto.
+Tecnologias utilizadas (Pandas, Seaborn, Matplotlib, etc.).
+Funcionalidades
+
+Carregamento de dados de arquivos CSV por URLs.
+Geração automática de análises e gráficos.
+Identificação de correlações entre variáveis numéricas.
+Suporte a arquivos do Google Drive.
+Instalação
+
+Passo a passo para configurar o ambiente (instalação de dependências via requirements.txt).
+Como usar
+
+Instruções sobre como fornecer URLs e executar a análise.
+Exemplo de uso
+
+Exemplo de URL e resultado da análise.
